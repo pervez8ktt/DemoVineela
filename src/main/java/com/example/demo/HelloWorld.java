@@ -5,7 +5,7 @@ public class HelloWorld {
 	public void pervezMethod() {
 		
 		System.out.println("Hello World");
-		System.out.println("Line 8 Git");
+		System.out.println("Line 8 Eclipse");
 	}
 	
 	
