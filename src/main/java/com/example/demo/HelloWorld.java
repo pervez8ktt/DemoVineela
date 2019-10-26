@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("Line 8 Eclipse");
 		System.out.println("Line 9 Eclipse");
 		System.out.println("Line 9 Git");
+		
+		System.out.println("Line 12 Eclipse");
 	}
 	
 	
